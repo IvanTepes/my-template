@@ -18,12 +18,11 @@ Jawa
 GitHub and Gitpod.
 
 ## Version 2
-
 We like to add some more grpahical interfeces and some other stuff 
 we still discuss.
 
 ## Conclusion
 
--- . --
+In Progress.
 
 
